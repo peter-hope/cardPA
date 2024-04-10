@@ -1,0 +1,73 @@
+Tests for PA3
+
+
+(R)ational
+(I)nput
+(O)utput
+
+
+
+1
+	R: print current list, its empty
+	I:	p
+	O:	current list:
+
+2
+	R: add a three of diamonds to the beginning of the list
+	I:	b
+		3D
+	O:	
+
+3
+	R: print current list
+	I:	p
+	O:	current list: 3 of Diamonds >
+
+4
+	R: add a King of spades to the beginning of the list
+	I:	b
+		KS
+	O:	
+
+5
+	R: print current list
+	I:	p
+	O: 	current list: King of Spades > 3 of Diamonds >
+
+6
+	R: add four of clubs to end of the list
+	I:	e
+		4C
+	O:
+
+7
+	R: print current list
+	I:	p
+	O:	current list: King of Spades > 3 of Diamonds > 4 of Clubs >
+
+8
+	R: search if the card Queen of Spades is in the list (it's not)
+	I:	f
+		QS
+	O: 	Card Not Found
+
+9
+	R: search if 3 of Diamonds is in the list (it is)
+	I:	f
+		3D
+	O:	Card Found
+
+10
+	R: delete the 3 of Spades if its in the list (it's not)
+	I:	d
+		3S
+	O:	Delete failed, card not found
+		current list: King of Spades > 3 of Diamonds > 4 of Clubs > 
+
+11
+	R: delete the 3 of Diamonds if its in the list (it is)
+        I:      d
+                3D
+        O:      Deleted
+		current list: King of Spades > 4 of Clubs > 
+

@@ -1,0 +1,1257 @@
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 04:09:37 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 04:10:45 2023
+
+unfreed: <3> cardlist.c(15), 16 bytes at 0x55f1b5693890  	{4B 48 FE FE FE FE FE FE 30 38 69 B5 F1 55 00 00 KH......08i..U..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x55f1b5693830  	{34 44 FE FE FE FE FE FE D0 37 69 B5 F1 55 00 00 4D.......7i..U..}
+unfreed: <1> cardlist.c(15), 16 bytes at 0x55f1b56937d0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 3
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 48
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 04:42:14 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 04:42:14 2023
+
+unfreed: <3> cardlist.c(15), 16 bytes at 0x5559de31e890  	{4B 48 FE FE FE FE FE FE 30 E8 31 DE 59 55 00 00 KH......0.1.YU..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x5559de31e830  	{34 44 FE FE FE FE FE FE D0 E7 31 DE 59 55 00 00 4D........1.YU..}
+unfreed: <1> cardlist.c(15), 16 bytes at 0x5559de31e7d0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 3
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 48
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 04:43:56 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 04:43:56 2023
+
+unfreed: <3> cardlist.c(15), 16 bytes at 0x5562c8015890  	{4B 48 FE FE FE FE FE FE 30 58 01 C8 62 55 00 00 KH......0X..bU..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x5562c8015830  	{34 44 FE FE FE FE FE FE D0 57 01 C8 62 55 00 00 4D.......W..bU..}
+unfreed: <1> cardlist.c(15), 16 bytes at 0x5562c80157d0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 3
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 48
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 04:44:12 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 04:44:12 2023
+
+unfreed: <3> cardlist.c(15), 16 bytes at 0x55f408908890  	{4B 48 FE FE FE FE FE FE 30 88 90 08 F4 55 00 00 KH......0....U..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x55f408908830  	{34 44 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 4D..............}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 3
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 48
+ U)nfreed bytes totals      : 32
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 04:45:24 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 04:45:24 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x555ce93137d0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x555ce9313890  	{4B 48 FE FE FE FE FE FE 30 38 31 E9 5C 55 00 00 KH......081.\U..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x555ce9313830  	{34 44 FE FE FE FE FE FE D0 37 31 E9 5C 55 00 00 4D.......71.\U..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 04:47:49 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 04:47:49 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x55fd46f9c7d0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x55fd46f9c890  	{4B 48 FE FE FE FE FE FE 30 C8 F9 46 FD 55 00 00 KH......0..F.U..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x55fd46f9c830  	{34 44 FE FE FE FE FE FE D0 C7 F9 46 FD 55 00 00 4D.........F.U..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 04:48:16 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 04:48:16 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x557f4b9477d0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x557f4b947890  	{4B 48 FE FE FE FE FE FE 30 78 94 4B 7F 55 00 00 KH......0x.K.U..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x557f4b947830  	{34 44 FE FE FE FE FE FE D0 77 94 4B 7F 55 00 00 4D.......w.K.U..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 04:50:47 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 04:50:47 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x558bf7c267d0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x558bf7c26890  	{4B 48 FE FE FE FE FE FE 30 68 C2 F7 8B 55 00 00 KH......0h...U..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x558bf7c26830  	{34 44 FE FE FE FE FE FE D0 67 C2 F7 8B 55 00 00 4D.......g...U..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 05:21:39 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 05:21:39 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x56284c9997d0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x56284c999890  	{4B 48 FE FE FE FE FE FE 30 98 99 4C 28 56 00 00 KH......0..L(V..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x56284c999830  	{34 44 FE FE FE FE FE FE D0 97 99 4C 28 56 00 00 4D.........L(V..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 05:24:49 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 05:24:49 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x56043d66f7d0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x56043d66f890  	{4B 48 FE FE FE FE FE FE 30 F8 66 3D 04 56 00 00 KH......0.f=.V..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x56043d66f830  	{34 44 FE FE FE FE FE FE D0 F7 66 3D 04 56 00 00 4D........f=.V..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 05:26:26 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 05:26:26 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x55eeeadb5be0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x55eeeadb5ca0  	{4B 48 FE FE FE FE FE FE 40 5C DB EA EE 55 00 00 KH......@\...U..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x55eeeadb5c40  	{34 44 FE FE FE FE FE FE E0 5B DB EA EE 55 00 00 4D.......[...U..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 05:27:16 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 05:27:16 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x563384893be0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x563384893ca0  	{4B 48 FE FE FE FE FE FE 40 3C 89 84 33 56 00 00 KH......@<..3V..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x563384893c40  	{34 44 FE FE FE FE FE FE E0 3B 89 84 33 56 00 00 4D.......;..3V..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 05:28:17 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 05:28:17 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x561c41c4fbe0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x561c41c4fca0  	{4B 48 FE FE FE FE FE FE 40 FC C4 41 1C 56 00 00 KH......@..A.V..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x561c41c4fc40  	{34 44 FE FE FE FE FE FE E0 FB C4 41 1C 56 00 00 4D.........A.V..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 05:29:54 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 05:29:54 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x560846000be0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x560846000ca0  	{4B 48 FE FE FE FE FE FE 40 0C 00 46 08 56 00 00 KH......@..F.V..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x560846000c40  	{34 44 FE FE FE FE FE FE E0 0B 00 46 08 56 00 00 4D.........F.V..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 05:30:43 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 05:30:43 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x563e79faebe0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x563e79faeca0  	{4B 48 FE FE FE FE FE FE 40 EC FA 79 3E 56 00 00 KH......@..y>V..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x563e79faec40  	{34 44 FE FE FE FE FE FE E0 EB FA 79 3E 56 00 00 4D.........y>V..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 05:32:25 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 05:32:25 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x55979aa40be0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x55979aa40ca0  	{4B 48 FE FE FE FE FE FE 40 0C A4 9A 97 55 00 00 KH......@....U..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x55979aa40c40  	{34 44 FE FE FE FE FE FE E0 0B A4 9A 97 55 00 00 4D...........U..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 05:32:46 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 05:32:46 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x564683337be0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x564683337ca0  	{4B 48 FE FE FE FE FE FE 40 7C 33 83 46 56 00 00 KH......@|3.FV..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x564683337c40  	{34 44 FE FE FE FE FE FE E0 7B 33 83 46 56 00 00 4D.......{3.FV..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 05:33:07 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 05:33:07 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x55e055ed6be0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x55e055ed6ca0  	{4B 48 FE FE FE FE FE FE 40 6C ED 55 E0 55 00 00 KH......@l.U.U..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x55e055ed6c40  	{34 44 FE FE FE FE FE FE E0 6B ED 55 E0 55 00 00 4D.......k.U.U..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 05:35:04 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 05:35:04 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x563aeea1cbe0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x563aeea1cca0  	{4B 48 FE FE FE FE FE FE 40 CC A1 EE 3A 56 00 00 KH......@...:V..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x563aeea1cc40  	{34 44 FE FE FE FE FE FE E0 CB A1 EE 3A 56 00 00 4D..........:V..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 05:36:01 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 05:36:01 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x55f5ca292be0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x55f5ca292ca0  	{4B 48 FE FE FE FE FE FE 40 2C 29 CA F5 55 00 00 KH......@,)..U..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x55f5ca292c40  	{34 44 FE FE FE FE FE FE E0 2B 29 CA F5 55 00 00 4D.......+)..U..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 05:37:04 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 05:37:04 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x55648d1c5be0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x55648d1c5ca0  	{4B 48 FE FE FE FE FE FE 40 5C 1C 8D 64 55 00 00 KH......@\..dU..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x55648d1c5c40  	{34 44 FE FE FE FE FE FE E0 5B 1C 8D 64 55 00 00 4D.......[..dU..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 05:40:38 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 05:40:38 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x55ee853bcbe0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x55ee853bcca0  	{4B 48 FE FE FE FE FE FE 40 CC 3B 85 EE 55 00 00 KH......@.;..U..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x55ee853bcc40  	{34 44 FE FE FE FE FE FE E0 CB 3B 85 EE 55 00 00 4D........;..U..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 05:48:00 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 05:48:00 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x55b59dc96be0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x55b59dc96ca0  	{4B 48 FE FE FE FE FE FE 40 6C C9 9D B5 55 00 00 KH......@l...U..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x55b59dc96c40  	{34 44 FE FE FE FE FE FE E0 6B C9 9D B5 55 00 00 4D.......k...U..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 06:06:00 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 06:06:00 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x55a11be11be0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x55a11be11ca0  	{4B 48 FE FE FE FE FE FE 40 1C E1 1B A1 55 00 00 KH......@....U..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x55a11be11c40  	{34 44 FE FE FE FE FE FE E0 1B E1 1B A1 55 00 00 4D...........U..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 06:08:43 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 06:08:43 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x5603bc49ebe0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x5603bc49eca0  	{4B 48 FE FE FE FE FE FE 40 EC 49 BC 03 56 00 00 KH......@.I..V..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x5603bc49ec40  	{34 44 FE FE FE FE FE FE E0 EB 49 BC 03 56 00 00 4D........I..V..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 06:13:31 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 06:13:31 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x55711c8edbe0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x55711c8edca0  	{4B 48 FE FE FE FE FE FE 40 DC 8E 1C 71 55 00 00 KH......@...qU..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x55711c8edc40  	{34 44 FE FE FE FE FE FE E0 DB 8E 1C 71 55 00 00 4D..........qU..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 06:15:01 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 06:15:01 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x55b1f60e1be0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x55b1f60e1ca0  	{4B 48 FE FE FE FE FE FE 40 1C 0E F6 B1 55 00 00 KH......@....U..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x55b1f60e1c40  	{34 44 FE FE FE FE FE FE E0 1B 0E F6 B1 55 00 00 4D...........U..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 06:15:36 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 06:15:36 2023
+
+unfreed: <5> cardlist.c(26), 16 bytes at 0x563fb02dfbe0  	{32 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 2S..............}
+unfreed: <3> cardlist.c(15), 16 bytes at 0x563fb02dfca0  	{4B 48 FE FE FE FE FE FE 40 FC 2D B0 3F 56 00 00 KH......@.-.?V..}
+unfreed: <2> cardlist.c(15), 16 bytes at 0x563fb02dfc40  	{34 44 FE FE FE FE FE FE E0 FB 2D B0 3F 56 00 00 4D........-.?V..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 06:37:27 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 06:37:52 2023
+
+unfreed: <1> cardlist.c(15), 16 bytes at 0x55751e6e3ff0  	{0A 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 06:43:38 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 06:45:14 2023
+
+unfreed: <2> cardlist.c(15), 16 bytes at 0x555665894050  	{0A 00 FE FE FE FE FE FE F0 3F 89 65 56 55 00 00 .........?.eVU..}
+unfreed: <1> cardlist.c(15), 16 bytes at 0x555665893ff0  	{0A 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 2
+ L)argest memory usage      : 32
+ T)otal of all alloc() calls: 32
+ U)nfreed bytes totals      : 32
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 06:46:52 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 06:46:58 2023
+
+unfreed: <1> cardlist.c(15), 16 bytes at 0x55c7301dbff0  	{0A 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 06:48:35 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 06:48:54 2023
+
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 0
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 06:51:16 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 06:52:51 2023
+
+unfreed: <1> cardlist.c(15), 16 bytes at 0x55cb28650ff0  	{0A 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 06:58:05 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 06:58:15 2023
+
+unfreed: <1> cardlist.c(15), 16 bytes at 0x55fbc4951ff0  	{0A 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 06:59:01 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 06:59:16 2023
+
+unfreed: <1> cardlist.c(15), 16 bytes at 0x559e7208fff0  	{0A 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 06:59:27 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 06:59:37 2023
+
+unfreed: <1> cardlist.c(15), 16 bytes at 0x555f80daaff0  	{0A 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 16:21:08 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 16:21:23 2023
+
+unfreed: <2> cardlist.c(15), 16 bytes at 0x55d0b9464050  	{0A 00 FE FE FE FE FE FE F0 3F 46 B9 D0 55 00 00 .........?F..U..}
+unfreed: <1> cardlist.c(15), 16 bytes at 0x55d0b9463ff0  	{0A 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 2
+ L)argest memory usage      : 32
+ T)otal of all alloc() calls: 32
+ U)nfreed bytes totals      : 32
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 16:25:17 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 16:25:23 2023
+
+unfreed: <1> cardlist.c(15), 16 bytes at 0x55857ce34ff0  	{0A 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 16:25:54 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 16:25:55 2023
+
+unfreed: <1> cardlist.c(15), 16 bytes at 0x55cfa4fb6ff0  	{0A 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 17:06:17 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 17:06:38 2023
+
+unfreed: <2> cardlist.c(15), 16 bytes at 0x55c9c2fbf050  	{0A 00 FE FE FE FE FE FE F0 EF FB C2 C9 55 00 00 .............U..}
+unfreed: <1> cardlist.c(15), 16 bytes at 0x55c9c2fbeff0  	{0A 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 2
+ L)argest memory usage      : 32
+ T)otal of all alloc() calls: 32
+ U)nfreed bytes totals      : 32
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 17:07:01 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 17:07:06 2023
+
+unfreed: <1> cardlist.c(15), 16 bytes at 0x56066d09cff0  	{0A 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 17:08:50 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 17:09:04 2023
+
+unfreed: <3> cardlist.c(16), 16 bytes at 0x556234f460b0  	{0A 00 FE FE FE FE FE FE 50 60 F4 34 62 55 00 00 ........P`.4bU..}
+unfreed: <2> cardlist.c(16), 16 bytes at 0x556234f46050  	{0A 00 FE FE FE FE FE FE F0 5F F4 34 62 55 00 00 ........._.4bU..}
+unfreed: <1> cardlist.c(16), 16 bytes at 0x556234f45ff0  	{0A 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 3
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 48
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 17:09:07 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 17:09:16 2023
+
+unfreed: <1> cardlist.c(16), 16 bytes at 0x5564afe15ff0  	{0A 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 17:14:46 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 17:15:46 2023
+
+unfreed: <1> cardlist.c(16), 16 bytes at 0x555c5fe2cff0  	{00 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 17:24:34 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 17:24:49 2023
+
+unfreed: <2> cardlist.c(16), 16 bytes at 0x55947c5b8050  	{00 00 FE FE FE FE FE FE F0 7F 5B 7C 94 55 00 00 ..........[|.U..}
+unfreed: <1> cardlist.c(16), 16 bytes at 0x55947c5b7ff0  	{00 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 2
+ L)argest memory usage      : 32
+ T)otal of all alloc() calls: 32
+ U)nfreed bytes totals      : 32
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 23:55:27 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 23:56:45 2023
+
+unfreed: <7> cardlist.c(16), 16 bytes at 0x555d60bdf230  	{00 00 FE FE FE FE FE FE D0 F1 BD 60 5D 55 00 00 ...........`]U..}
+unfreed: <6> cardlist.c(16), 16 bytes at 0x555d60bdf1d0  	{33 00 FE FE FE FE FE FE 70 F1 BD 60 5D 55 00 00 3.......p..`]U..}
+unfreed: <5> cardlist.c(16), 16 bytes at 0x555d60bdf170  	{00 00 FE FE FE FE FE FE 10 F1 BD 60 5D 55 00 00 ...........`]U..}
+unfreed: <4> cardlist.c(16), 16 bytes at 0x555d60bdf110  	{00 00 FE FE FE FE FE FE B0 F0 BD 60 5D 55 00 00 ...........`]U..}
+unfreed: <3> cardlist.c(16), 16 bytes at 0x555d60bdf0b0  	{00 00 FE FE FE FE FE FE 50 F0 BD 60 5D 55 00 00 ........P..`]U..}
+unfreed: <2> cardlist.c(16), 16 bytes at 0x555d60bdf050  	{00 00 FE FE FE FE FE FE F0 EF BD 60 5D 55 00 00 ...........`]U..}
+unfreed: <1> cardlist.c(16), 16 bytes at 0x555d60bdeff0  	{00 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 7
+ L)argest memory usage      : 112
+ T)otal of all alloc() calls: 112
+ U)nfreed bytes totals      : 112
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Mon Mar 20 23:56:57 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Mon Mar 20 23:57:17 2023
+
+unfreed: <3> cardlist.c(16), 16 bytes at 0x55f633fb50b0  	{00 00 FE FE FE FE FE FE 50 50 FB 33 F6 55 00 00 ........PP.3.U..}
+unfreed: <2> cardlist.c(16), 16 bytes at 0x55f633fb5050  	{00 00 FE FE FE FE FE FE F0 4F FB 33 F6 55 00 00 .........O.3.U..}
+unfreed: <1> cardlist.c(16), 16 bytes at 0x55f633fb4ff0  	{00 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 3
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 48
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 12:19:25 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 12:19:29 2023
+
+unfreed: <1> cardlist.c(16), 16 bytes at 0x559c67f54ff0  	{00 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 12:29:10 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 12:29:32 2023
+
+unfreed: <3> cardlist.c(16), 16 bytes at 0x55acf854c0b0  	{7F 00 FE FE FE FE FE FE 50 C0 54 F8 AC 55 00 00 ........P.T..U..}
+unfreed: <2> cardlist.c(16), 16 bytes at 0x55acf854c050  	{7F 00 FE FE FE FE FE FE F0 BF 54 F8 AC 55 00 00 ..........T..U..}
+unfreed: <1> cardlist.c(16), 16 bytes at 0x55acf854bff0  	{7F 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 3
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 48
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 12:30:35 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 12:31:04 2023
+
+unfreed: <1> cardlist.c(16), 16 bytes at 0x56470ec17ff0  	{7F 00 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 ................}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 12:47:53 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 12:48:02 2023
+
+unfreed: <1> cardlist.c(16), 16 bytes at 0x5645a9087ff0  	{0A 33 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 .3..............}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 13:05:22 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 13:05:29 2023
+
+unfreed: <1> cardlist.c(16), 16 bytes at 0x55b303cc9ff0  	{0A 33 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 .3..............}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 13:10:47 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 13:11:03 2023
+
+unfreed: <1> cardlist.c(16), 16 bytes at 0x5604c360cff0  	{0A 33 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 .3..............}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 13:12:01 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 13:12:32 2023
+
+unfreed: <1> cardlist.c(16), 16 bytes at 0x5632c8cd7ff0  	{33 44 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 3D..............}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 13:13:16 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 13:13:32 2023
+
+unfreed: <2> cardlist.c(16), 16 bytes at 0x55973ed54050  	{34 53 FE FE FE FE FE FE F0 3F D5 3E 97 55 00 00 4S.......?.>.U..}
+unfreed: <1> cardlist.c(16), 16 bytes at 0x55973ed53ff0  	{33 44 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 3D..............}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 2
+ L)argest memory usage      : 32
+ T)otal of all alloc() calls: 32
+ U)nfreed bytes totals      : 32
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 13:32:47 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 13:33:05 2023
+
+unfreed: <3> cardlist.c(27), 16 bytes at 0x55b44d9540b0  	{A4 4B FE FE FE FE FE FE 00 00 00 00 00 00 00 00 .K..............}
+unfreed: <2> cardlist.c(16), 16 bytes at 0x55b44d954050  	{4B 53 FE FE FE FE FE FE F0 3F 95 4D B4 55 00 00 KS.......?.M.U..}
+unfreed: <1> cardlist.c(16), 16 bytes at 0x55b44d953ff0  	{33 44 FE FE FE FE FE FE B0 40 95 4D B4 55 00 00 3D.......@.M.U..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 3
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 48
+ U)nfreed bytes totals      : 48
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 13:35:12 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 13:35:50 2023
+
+unfreed: <1> cardlist.c(14), 16 bytes at 0x564992c53ff0  	{33 44 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 3D..............}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 13:37:32 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 13:38:48 2023
+
+unfreed: <4> cardlist.c(22), 16 bytes at 0x55d125cb8110  	{41 53 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 AS..............}
+unfreed: <3> cardlist.c(14), 16 bytes at 0x55d125cb80b0  	{34 43 FE FE FE FE FE FE 50 80 CB 25 D1 55 00 00 4C......P..%.U..}
+unfreed: <2> cardlist.c(14), 16 bytes at 0x55d125cb8050  	{4B 53 FE FE FE FE FE FE F0 7F CB 25 D1 55 00 00 KS.........%.U..}
+unfreed: <1> cardlist.c(14), 16 bytes at 0x55d125cb7ff0  	{33 44 FE FE FE FE FE FE 10 81 CB 25 D1 55 00 00 3D.........%.U..}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 4
+ L)argest memory usage      : 64
+ T)otal of all alloc() calls: 64
+ U)nfreed bytes totals      : 64
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 13:47:36 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 13:48:15 2023
+
+unfreed: <2> cardlist.c(22), 16 bytes at 0x562b483c7050  	{34 44 FE FE FE FE FE FE 00 00 00 00 00 00 00 00 4D..............}
+
+Memory usage statistics (global):
+ N)umber of allocations made: 2
+ L)argest memory usage      : 32
+ T)otal of all alloc() calls: 32
+ U)nfreed bytes totals      : 16
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 14:13:43 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 14:13:48 2023
+
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 0
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 14:14:42 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 14:14:48 2023
+
+
+Memory usage statistics (global):
+ N)umber of allocations made: 2
+ L)argest memory usage      : 32
+ T)otal of all alloc() calls: 32
+ U)nfreed bytes totals      : 0
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 14:17:27 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 14:17:37 2023
+
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 0
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 14:29:29 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 14:29:34 2023
+
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 0
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 14:36:14 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 14:41:29 2023
+
+
+Memory usage statistics (global):
+ N)umber of allocations made: 2
+ L)argest memory usage      : 32
+ T)otal of all alloc() calls: 32
+ U)nfreed bytes totals      : 0
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 14:44:19 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 14:48:25 2023
+
+
+Memory usage statistics (global):
+ N)umber of allocations made: 3
+ L)argest memory usage      : 48
+ T)otal of all alloc() calls: 48
+ U)nfreed bytes totals      : 0
+
+============= MEMWATCH 2.71 Copyright (C) 1992-1999 Johan Lindh =============
+
+Started at Tue Mar 21 14:52:29 2023
+
+Modes: __STDC__ 64-bit mwDWORD==(unsigned int)
+mwROUNDALLOC==8 sizeof(mwData)==56 mwDataSize==56
+
+
+Stopped at Tue Mar 21 14:52:46 2023
+
+
+Memory usage statistics (global):
+ N)umber of allocations made: 1
+ L)argest memory usage      : 16
+ T)otal of all alloc() calls: 16
+ U)nfreed bytes totals      : 0

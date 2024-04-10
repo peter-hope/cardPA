@@ -1,0 +1,11 @@
+Reflection for PA3
+
+- I made my list structure first and it was based on having int values
+
+- I did not test my cards seperatly from my list, it would've been good practice but that section felt relatively easy and I didn't have any issues
+
+- I started by making the list, then making the cards, then making the list fit for cards, then making the main work to call the different cardlist functions
+
+- The linkedlists in C felt very similar to those in other languages, one difference was using -> instead of . sometimes and dealing with pointers
+
+- Overall I think the project went well. I got tripped up at the end trying to implement it with the main because of an issue with the command input, but the rest of it went pretty smoothly. 
